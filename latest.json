@@ -1,5 +1,10 @@
 {
   "version": "2.0.0",
-  "notes": "First stable release of Omni Assistant Pro AI",
-  "download_url": "https://github.com/Haddouba01/omni-assistant/releases/latest/download/OmniAssistantProAI.exe"
+  "changelog": [
+    "دعم اللغة العربية والفرنسية والإنجليزية",
+    "تنفيذ أوامر النظام وفتح البرامج",
+    "تحسين سرعة الاستجابة",
+    "تصميم واجهة حديثة وسلسة"
+  ],
+  "download_url": "https://github.com/Haddouba01/omni-assistant/releases/latest/download/Omni.Assistant.Pro.AI.exe"
 }
